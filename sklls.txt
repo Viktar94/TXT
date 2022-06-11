@@ -1,4 +1,1 @@
-1)Database
-2)Postman
-4)Http
-5)etc
+Basic knowledges, client-server archirecture, http, json/xml, api testing, dev tools, ios/android guidelines, sql
